@@ -1,9 +1,10 @@
 # ✏️Android Tools 
 ## 🎁 Android Tools Using Kotlin
 
-** 🎈In Android Tools Contain, Many Basic Features That Are Use In Daily Android Projects.
+**🎈In Android Tools Contain, Many Basic Features That Are Use In Daily Android Projects.
 🎈**
-##🎉Features🎉
+
+## 🎉Features🎉
 
 #### ➡️ Slider Using Recyclerview With Auto Scroll
 #### ➡️ Single Section Category Onclick Showing List
@@ -21,5 +22,8 @@
 #### ➡️  Parse Data Using Mvvm 
 #### ➡️  Radio Button Single Selection And Select And Deselection 
 
- 
+------
+
+## 🌟 If You think this helpful for you give us Star and also share with your friends 
+-----
  
