@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_active.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_black_corner_10.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_gray_corner_10.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_non_active.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_onlycorner_gary.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_primary.xml" value="0.13958333333333334" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/bg_ripple.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_backpress.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_call_primary.xml" value="0.14322916666666666" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_call_rates.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_clear.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_close_white.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_credits.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_dialpad.xml" value="0.13958333333333334" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_history.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_more.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_search_main.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/drawable/ic_tick_point.xml" value="0.26614583333333336" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/font/montserrat.xml" value="0.28020833333333334" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_add_money.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_add_wallpaper.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_banner_rv.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_banner_viewpager.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_chips_list.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_contact_list_data.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_drawing.xml" value="0.2" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_editprofile.xml" value="0.12708333333333333" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_flex_box.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_foodorderdetail.xml" value="0.264" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_list_of_product.xml" value="0.4" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_multiple_selection.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_orderdetail.xml" value="0.12708333333333333" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_payment_pay.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_radio.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/activity_successpayment.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/adapter_banner_item.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/adapter_product.xml" value="0.72" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/dailog_progress.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/dailog_progress_message.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/dialog_alert.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/dlg_externalstorage.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/dlg_progress.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_contact.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_credit.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_dial.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_home_contact.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/fragment_init_call.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_category.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_contact.xml" value="0.12708333333333333" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_form_list.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_multi.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_passion.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_text.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/item_toolbar.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/layout_nevheader.xml" value="0.12708333333333333" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/layout_persistent_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/main_layout.xml" value="0.2359375" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/row_imageviewpager_item.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/row_orderitemsummary.xml" value="0.12708333333333333" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/slider_adapter.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/layout/slider_external_adapter.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/My Github/Android Tools/app/src/main/res/xml/file_paths.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

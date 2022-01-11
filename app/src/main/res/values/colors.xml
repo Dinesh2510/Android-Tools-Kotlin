@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#FD3B2F</color>
+    <color name="colorPrimaryDark">#FD3B2F</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#263238</color>
+    <color name="lightBlue">#33FD3B2F</color>
+    <color name="gray_orange">#F3F2F7</color>
+    <color name="gray">#C3C3C3</color>
+    <color name="strock_gray">#D0D0D0</color>
+    <color name="dark_gary">#B1B1B1</color>
+    <color name="red">#F10E0E</color>
+    <color name="light_green">#57D796</color>
+    <color name="orange">#F44216</color>
+
+    <color name="status1">#FF2D55</color>
+    <color name="status2">#FF9500</color>
+    <color name="status3">#5AC8FA</color>
+    <color name="status4">#57D796</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_95">#1a1a1a</color>
+    <color name="grey_100_">#0d0d0d</color>
+    <color name="textColor">#000000</color>
+    <color name="gray0">#BDBEC2</color>
+    <color name="TextColor">#000000</color>
+    <color name="chipColor">#b4b9c6</color>
+    <color name="chipBorderColor">#d4d9df</color>
+    <color name="pink_color">#fa6565</color>
+    <color name="newGrayTextColor">#9b9b9b</color>
+    <color name="yellow">#FFA000</color>
+    <color name="dialog_text">#000000</color>
+    <color name="dialog_text_button">#a9793b</color>
+    <color name="textView_dialog_update">#000000</color>
+    <color name="view_slider_home">#a9793b</color>
+
+
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorTextIcon">#FFF</color>
+    <color name="colorTextIconBg">#503A7BD5</color>
+    <color name="colorBgTab">#f5f5f5</color>
+    <color name="colorBottomNavBackground">#f5f5f5</color>
+    <color name="colorBorder">#e0e0e0</color>
+    <color name="colorRipple">#bdbdbd</color>
+    <color name="colorSecondaryBackground">#f5f5f5</color>
+    <color name="colorCheckInBorder">#fdd835</color>
+    <color name="colorWatchAdBorder">#40c4ff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBackgroundDefault">#eeeeee</color>
+    <color name="colorGreen">#00c853</color>
+    <color name="colorStatusBar">#15B4F1</color>
+    <color name="colorPrimary20">#2015B4F1</color>
+    <color name="colorGradientStart">#3A7BD5</color>
+    <color name="colorGradientEnd">#00D2FF</color>
+    <color name="colorWhiteLight">#80FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack75">#75000000</color>
+    <color name="colorBlack50">#50000000</color>
+    <color name="colorBlack25">#25000000</color>
+    <color name="colorBlack10">#10000000</color>
+    <color name="colorGray">#9A9A9A</color>
+    <color name="colorGray75">#759A9A9A</color>
+    <color name="colorGray50">#509A9A9A</color>
+    <color name="colorGray25">#259A9A9A</color>
+    <color name="colorGray10">#109A9A9A</color>
+    <color name="colorRed">#D32F2F</color>
+    <color name="colorRedBG">#FFCDD2</color>
+    <color name="colorPink">#C2185B</color>
+    <color name="colorPinkBG">#F8BBD0</color>
+    <color name="colorPurple">#7B1FA2</color>
+    <color name="colorPurpleBG">#E1BEE7</color>
+    <color name="colorDeepPurple">#512DA8</color>
+    <color name="colorDeepPurpleBG">#D1C4E9</color>
+    <color name="colorIndigo">#303F9F</color>
+    <color name="colorIndigoBG">#C5CAE9</color>
+    <color name="colorBlue">#1976D2</color>
+    <color name="colorBlueBG">#BBDEFB</color>
+    <color name="colorCyan">#0097A7</color>
+    <color name="colorCyanBG">#B2EBF2</color>
+    <color name="colorTeal">#00796B</color>
+    <color name="colorTealBG">#B2DFDB</color>
+    <color name="colorGreenDark">#00796B</color>
+    <color name="colorGreenDarkBG">#B2DFDB</color>
+    <color name="colorGreenLight">#689F38</color>
+    <color name="colorGreenLightBG">#DCEDC8</color>
+    <color name="colorAmber">#FFA000</color>
+    <color name="colorAmberBG">#FFECB3</color>
+    <color name="colorBrown">#5D4037</color>
+    <color name="colorBrownBG">#D7CCC8</color>
+    <color name="colorTab">#2962FF</color>
+    <color name="bgRippleBackground">#FFFFFF</color>
+    <color name="colorCongrats">#8C489F</color>
+    <color name="colorDayNight">#FFFFFF</color>
+    <color name="colorBlackWhite">#FFFFFF</color>
+</resources>
